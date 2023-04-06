@@ -1,0 +1,2 @@
+v1 has no data fed into the model
+v2 ties to incorporate data to finetune the responses
