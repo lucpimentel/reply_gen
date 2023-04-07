@@ -1,7 +1,7 @@
 import openai
 import streamlit as st
 from auxfunctions import openai_api_call
-import pyperclip
+
 
 st.title('Welcome to The Tweet Reply Generator!')
 
